@@ -7,7 +7,7 @@ package com.mycompany._ventana;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
-public class GUI implements ActionListener{
+public class GIU implements ActionListener{
    
     private static JLabel userLabel;
     private static JLabel appat;
